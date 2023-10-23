@@ -13,5 +13,6 @@
 	<classpathentry kind="lib" path="jsoup-1.11.3.jar"/>
 	<classpathentry kind="lib" path="poi-4.1.2.jar"/>
 	<classpathentry kind="lib" path="commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="SparseBitSet-1.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
